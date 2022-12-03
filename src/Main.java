@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Udemy: Java Programming Masterclass");
         System.out.println("Coding Challenge: Minimum and Maximum Challenge");
-        System.out.println("");
+        System.out.println("-----------------------------------------------");
 
         Scanner scanner = new Scanner(System.in);
 
