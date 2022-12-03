@@ -27,6 +27,8 @@ public class Main {
             } else{
                 break;
             }
+
+            scanner.nextLine(); //handle input enter key
         }
 
         System.out.println("Minimum number: " + minimum + ", Maximum number: " + maximum);
